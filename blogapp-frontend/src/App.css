@@ -1,0 +1,69 @@
+.shady-title {
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.6); 
+  }
+  
+.nav-menu {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    background-color: #f8f9fa; 
+  }
+  
+.nav-link {
+    padding-right: 15px;
+    color: #007bff; 
+    text-decoration: none; 
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.base-button {
+    padding: 1px 4px !important;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 10px 5px 10px;
+  }
+  
+.view-button {
+    background-color: gray !important;
+    margin: 0 10px 5px 10px;
+}
+.remove-button {
+    background-color: red !important; 
+
+}
+
+.like-button {
+    background-color: green !important;
+}
+
+.blog-style {
+    padding-top: 10px;
+    padding-left: 2px;
+    border: solid;
+    border-width: 1px;
+    margin-bottom: 5px;
+    background-color: rgb(187, 182, 182);
+}
+
+/* Align content within a container */
+.content-container {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: left; /* Align children centrally on the cross axis */
+  }
+  
+  /* Specific styling for URL display */
+.url-display {
+    margin-top: 10px; /* Space above the URL display */
+    font-style: italic; /* Optional: italicize the URL */
+}
+  
