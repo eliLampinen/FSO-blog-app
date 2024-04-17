@@ -6,8 +6,11 @@ Key features and things learnt/used during the project:
 - React states, redux
 - SPA (React router)
 - React bootstrap
+- Testing (end-to-end and unittesting)
 - Express
 - User authentication
+
+Course was pretty long so definetly multiple other things also learnt.
 
 
 # Key feature pictures
